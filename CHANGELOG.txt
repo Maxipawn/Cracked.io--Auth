@@ -1,0 +1,15 @@
+# Change Log      
+-------------------
+0.0.1 (23/05/2022)
+-------------------
+- Auth [First release]
+-------------------
+0.0.2 (24/05/2022)
+-------------------
+- Implementation of new features and bug fixes
+-------------------
+0.0.3 (25/05/2022)
+-------------------
+- Implementation of new features and bug fixes
+- Error messages
+- Authentication key autosave
